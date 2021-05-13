@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    justify-content: center;
+    width: 55%;
+    color: seashell;
+}
+
+@media (max-width:770px )
+{
+  .container{
+    width: 100%;
+    
+  }
+
+}
